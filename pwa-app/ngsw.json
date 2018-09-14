@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "index": "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/index.html",
+  "index": "https://gagiksargsyan.github.io/pwa-app/pwa-app/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/favicon.ico",
-        "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/index.html",
-        "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/main.c2f619faccd2f5b9b810.js",
-        "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/polyfills.7a0e6866a34e280f48e7.js",
-        "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/runtime.a66f828dca56eeb90e02.js",
-        "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/styles.73861d10456a830ab402.css"
+        "https://gagiksargsyan.github.io/pwa-app/pwa-app/favicon.ico",
+        "https://gagiksargsyan.github.io/pwa-app/pwa-app/index.html",
+        "https://gagiksargsyan.github.io/pwa-app/pwa-app/main.c2f619faccd2f5b9b810.js",
+        "https://gagiksargsyan.github.io/pwa-app/pwa-app/polyfills.7a0e6866a34e280f48e7.js",
+        "https://gagiksargsyan.github.io/pwa-app/pwa-app/runtime.a66f828dca56eeb90e02.js",
+        "https://gagiksargsyan.github.io/pwa-app/pwa-app/styles.73861d10456a830ab402.css"
       ],
       "patterns": []
     },
@@ -21,34 +21,34 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/assets/icons/icon-128x128.png",
-        "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/assets/icons/icon-144x144.png",
-        "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/assets/icons/icon-152x152.png",
-        "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/assets/icons/icon-192x192.png",
-        "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/assets/icons/icon-384x384.png",
-        "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/assets/icons/icon-512x512.png",
-        "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/assets/icons/icon-72x72.png",
-        "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/assets/icons/icon-96x96.png"
+        "https://gagiksargsyan.github.io/pwa-app/pwa-app/assets/icons/icon-128x128.png",
+        "https://gagiksargsyan.github.io/pwa-app/pwa-app/assets/icons/icon-144x144.png",
+        "https://gagiksargsyan.github.io/pwa-app/pwa-app/assets/icons/icon-152x152.png",
+        "https://gagiksargsyan.github.io/pwa-app/pwa-app/assets/icons/icon-192x192.png",
+        "https://gagiksargsyan.github.io/pwa-app/pwa-app/assets/icons/icon-384x384.png",
+        "https://gagiksargsyan.github.io/pwa-app/pwa-app/assets/icons/icon-512x512.png",
+        "https://gagiksargsyan.github.io/pwa-app/pwa-app/assets/icons/icon-72x72.png",
+        "https://gagiksargsyan.github.io/pwa-app/pwa-app/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/index.html": "6230ac8849cd8bf917e889aadf0ee92946c4653b",
-    "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/main.c2f619faccd2f5b9b810.js": "b6e63150b83dad678a1d9dc84594205ff633a24b",
-    "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/polyfills.7a0e6866a34e280f48e7.js": "9f0b8341c0a0caec1581da2f255eb5dbb8e12303",
-    "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
-    "'https://gagiksargsyan.github.io/pwa-app/pwa-app/'/styles.73861d10456a830ab402.css": "8e5f6cc6fe20f982aa11b6c8ef8663ad9bb277a4"
+    "https://gagiksargsyan.github.io/pwa-app/pwa-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://gagiksargsyan.github.io/pwa-app/pwa-app/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://gagiksargsyan.github.io/pwa-app/pwa-app/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://gagiksargsyan.github.io/pwa-app/pwa-app/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://gagiksargsyan.github.io/pwa-app/pwa-app/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://gagiksargsyan.github.io/pwa-app/pwa-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://gagiksargsyan.github.io/pwa-app/pwa-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://gagiksargsyan.github.io/pwa-app/pwa-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://gagiksargsyan.github.io/pwa-app/pwa-app/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://gagiksargsyan.github.io/pwa-app/pwa-app/index.html": "3fb216ab1f9adadec9c032f7fe051cb4091a4a19",
+    "https://gagiksargsyan.github.io/pwa-app/pwa-app/main.c2f619faccd2f5b9b810.js": "b6e63150b83dad678a1d9dc84594205ff633a24b",
+    "https://gagiksargsyan.github.io/pwa-app/pwa-app/polyfills.7a0e6866a34e280f48e7.js": "9f0b8341c0a0caec1581da2f255eb5dbb8e12303",
+    "https://gagiksargsyan.github.io/pwa-app/pwa-app/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
+    "https://gagiksargsyan.github.io/pwa-app/pwa-app/styles.73861d10456a830ab402.css": "8e5f6cc6fe20f982aa11b6c8ef8663ad9bb277a4"
   },
   "navigationUrls": [
     {
