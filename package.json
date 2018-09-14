@@ -4,7 +4,8 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "start:prod": "ng build --prod && lite-server --baseDir dist/pwa-app",
+    "publish":"angular-cli-ghpages",
+    "buldProd": "ng build --prod --base-href=https://gagiksargsyan.github.io/pwa-app/pwa-app/ && lite-server --baseDir dist/pwa-app",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",

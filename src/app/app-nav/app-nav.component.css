@@ -1,12 +1,18 @@
 .sidenav-container {
-  height: 100%;
-}
+   height : 100%;
+   }
 
 .sidenav {
-  width: 200px;
-}
+   width : 200px;
+   }
 
 .mat-toolbar.mat-primary {
-  position: sticky;
-  top: 0;
-}
+   position : sticky;
+   top      : 0;
+   z-index : 1;
+   }
+
+.present {
+   background-color : darkorange;
+   }
+
